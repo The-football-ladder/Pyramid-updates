@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.tablet.preview",
     "channel": "preview",
-    "sequence": 208,
-    "versionCode": 208,
-    "versionName": "0.0.2-rc6.4-v208-tablet-github-ota-preview",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/tablet/0.0.2-rc6.4-v208-tablet-github-ota-preview.apk",
-    "sha256": "d233226c9500cbe5fac6a644cafd5c4b50a4d55e0047975bd7985990d77e123e",
-    "sizeBytes": 4699932,
-    "generatedAt": "2026-10-24T21:59:59.040Z",
-    "expiresAt": "2026-10-30T21:59:59.040Z"
+    "sequence": 209,
+    "versionCode": 209,
+    "versionName": "0.0.2-rc6.4-v209-tablet-github-ota-preview",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/tablet/0.0.2-rc6.4-v209-tablet-github-ota-preview.apk",
+    "sha256": "95a4a3069a29c29d98d3b98ca3900c213e6062a0a0647cd14b893080a4ad9230",
+    "sizeBytes": 4700948,
+    "generatedAt": "2026-10-25T07:09:51.236Z",
+    "expiresAt": "2026-10-31T07:09:51.236Z"
   },
-  "signature": "gl1JhLA8jpK527twyl+ffvGzvIEvgKxqGVqqScmGnwGbKwu8FkTPf4SIxmSVIQQQDpx+BOJCk5vHBSYplKmUAA=="
+  "signature": "7t4q9MBw0W0HcHZnATpKI7AONN4Ft41RPya4noWYj78G3s61SO0bC978xSz9fACy87tMUR1a0p3h2M1e8cvbBA=="
 }
