@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 364,
-    "versionCode": 364,
-    "versionName": "0.0.2-rc6.4-v364-phone-github-ota-preview",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v364-phone-github-ota-preview.apk",
-    "sha256": "222c8d898f00907b5c03a178dcc2147abb2e70ed386bc4116ff55a8df7e705d4",
-    "sizeBytes": 5161616,
-    "generatedAt": "2026-11-07T20:59:02.996Z",
-    "expiresAt": "2026-11-13T20:59:02.996Z"
+    "sequence": 365,
+    "versionCode": 365,
+    "versionName": "0.0.2-rc6.4-v365-phone-github-ota-preview",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v365-phone-github-ota-preview.apk",
+    "sha256": "faee507609d3936d6d426c8bfdb6a9677baf6abec4576b61db14e6b65f4f5e65",
+    "sizeBytes": 5162028,
+    "generatedAt": "2026-11-07T21:37:56.691Z",
+    "expiresAt": "2026-11-13T21:37:56.691Z"
   },
-  "signature": "NwxCEo4w5ZJ0PoGs2M9noOTh3ihN0fMHIEcgAoKtSW8UqxEPQNzMxXlTppCJrKegC39geK0DZk91kgVgJ/FoDA=="
+  "signature": "2P++ihSC57cRcS/UmaJwESA6sLew1bnDKH8uSiuR8YS7pDHYV6VW9c9ykJOEpcjCVf4c3KxnhuIYHhGGo4kzCw=="
 }
