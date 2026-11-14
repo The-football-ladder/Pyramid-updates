@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 401,
-    "versionCode": 401,
-    "versionName": "0.0.2-rc6.4-v401-phone-pre-shot-goalmouth-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v401-phone-pre-shot-goalmouth-private-test.apk",
-    "sha256": "e4df5f81039394eb98cf1c8c394bbaa460a133b1ecb448ed257df31f3cf802f4",
-    "sizeBytes": 5175656,
-    "generatedAt": "2026-11-14T19:54:10.043Z",
-    "expiresAt": "2026-11-20T19:54:10.043Z"
+    "sequence": 402,
+    "versionCode": 402,
+    "versionName": "0.0.2-rc6.4-v402-phone-long-shot-saves-private-test",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v402-phone-long-shot-saves-private-test.apk",
+    "sha256": "49c0f48637139b73ae1079b057cc400907395f9e49daf2f3b8876ce553113f52",
+    "sizeBytes": 5175820,
+    "generatedAt": "2026-11-14T21:21:27.384Z",
+    "expiresAt": "2026-11-20T21:21:27.384Z"
   },
-  "signature": "P2ZfcJ0pewpdwsHB52Yb27mNN+Vq+rgqYu2ndCvwvtTYzNc5dzR1nvnmqRglzx3SF6CFB7ekTUR3X4M4JZ8pDw=="
+  "signature": "d/pHmE3STAVBlrOQn/dxSqDaKscdpja/oYZxi5mm3ElCbpmaUWer2XbGCR5nbbD6F9ttxQivCh1yDk1cMYdaBw=="
 }
