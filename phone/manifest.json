@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 400,
-    "versionCode": 400,
-    "versionName": "0.0.2-rc6.4-v400-phone-keeper-secure-grip-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v400-phone-keeper-secure-grip-private-test.apk",
-    "sha256": "77da43e9b3a32328a709c418d8eb1cd7e50e0372ee4b8c2a43ccd58750554247",
-    "sizeBytes": 5175500,
-    "generatedAt": "2026-11-14T17:25:57.489Z",
-    "expiresAt": "2026-11-20T17:25:57.489Z"
+    "sequence": 401,
+    "versionCode": 401,
+    "versionName": "0.0.2-rc6.4-v401-phone-pre-shot-goalmouth-private-test",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v401-phone-pre-shot-goalmouth-private-test.apk",
+    "sha256": "e4df5f81039394eb98cf1c8c394bbaa460a133b1ecb448ed257df31f3cf802f4",
+    "sizeBytes": 5175656,
+    "generatedAt": "2026-11-14T19:54:10.043Z",
+    "expiresAt": "2026-11-20T19:54:10.043Z"
   },
-  "signature": "NdZOUfIysvNzkHwSB64rSUQ9QQA3n7IJwtW5zuZpp0j3CsLmLNXMs+DIZZ42qG2C2Ip8gDdxtY8oW88CrI7cDA=="
+  "signature": "P2ZfcJ0pewpdwsHB52Yb27mNN+Vq+rgqYu2ndCvwvtTYzNc5dzR1nvnmqRglzx3SF6CFB7ekTUR3X4M4JZ8pDw=="
 }
