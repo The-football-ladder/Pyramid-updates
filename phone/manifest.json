@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 397,
-    "versionCode": 397,
-    "versionName": "0.0.2-rc6.4-v397-phone-pitch-tap-crash-fix-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v397-phone-pitch-tap-crash-fix-private-test.apk",
-    "sha256": "d7d7af21860c6547d7a4f73b2dedc29751682725c27338be42b7eb822735ca74",
-    "sizeBytes": 5175040,
-    "generatedAt": "2026-11-14T08:50:49.963Z",
-    "expiresAt": "2026-11-20T08:50:49.963Z"
+    "sequence": 398,
+    "versionCode": 398,
+    "versionName": "0.0.2-rc6.4-v398-phone-match-keeper-catch-hold-private-test",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v398-phone-match-keeper-catch-hold-private-test.apk",
+    "sha256": "9d335fd1a1df476f9da457f6247e3436f733b898b10294db053baf9b275a897a",
+    "sizeBytes": 5175192,
+    "generatedAt": "2026-11-14T12:14:34.471Z",
+    "expiresAt": "2026-11-20T12:14:34.471Z"
   },
-  "signature": "4YPNN0IjwJsQO9g7GTIOURmznh/CrR+zaASUKGmFIbekyd0fLBIHv+qvDPo046ObjFt/MY6wXbvZrE4aBrbXDA=="
+  "signature": "ZXvrDSVM8Oh1/oTmgexDecp9qb/TtPGIiqZ1vSxAtYn/LqVZA5SgbrzUsqqFYr8BtcVCYwFBW9KLAga7/ErEBA=="
 }
