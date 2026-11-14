@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 399,
-    "versionCode": 399,
-    "versionName": "0.0.2-rc6.4-v399-phone-long-shot-diving-catches-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v399-phone-long-shot-diving-catches-private-test.apk",
-    "sha256": "4078fe1fd7fa8da309c017f17569ef77b143522e213f4ee8c9abf8373c316186",
-    "sizeBytes": 5175384,
-    "generatedAt": "2026-11-14T13:43:22.385Z",
-    "expiresAt": "2026-11-20T13:43:22.385Z"
+    "sequence": 400,
+    "versionCode": 400,
+    "versionName": "0.0.2-rc6.4-v400-phone-keeper-secure-grip-private-test",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v400-phone-keeper-secure-grip-private-test.apk",
+    "sha256": "77da43e9b3a32328a709c418d8eb1cd7e50e0372ee4b8c2a43ccd58750554247",
+    "sizeBytes": 5175500,
+    "generatedAt": "2026-11-14T17:25:57.489Z",
+    "expiresAt": "2026-11-20T17:25:57.489Z"
   },
-  "signature": "a/Pj8vBBNwbTKi1JTEd5CIwNM0+ailYTinV03J33zjiMMyWyL62bPO6Dl9OEh/6rxl4o/QJvOgT09AUVti4sDQ=="
+  "signature": "NdZOUfIysvNzkHwSB64rSUQ9QQA3n7IJwtW5zuZpp0j3CsLmLNXMs+DIZZ42qG2C2Ip8gDdxtY8oW88CrI7cDA=="
 }
