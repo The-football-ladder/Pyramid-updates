@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 396,
-    "versionCode": 396,
-    "versionName": "0.0.2-rc6.4-v396-phone-superkeeper-diving-catch-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v396-phone-superkeeper-diving-catch-private-test.apk",
-    "sha256": "b35d1e3fb606bf3e967e1108562d8afef1f0a72a19afac4a7b711e27d0fad4ad",
-    "sizeBytes": 5175032,
-    "generatedAt": "2026-11-14T07:07:28.196Z",
-    "expiresAt": "2026-11-20T07:07:28.196Z"
+    "sequence": 397,
+    "versionCode": 397,
+    "versionName": "0.0.2-rc6.4-v397-phone-pitch-tap-crash-fix-private-test",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v397-phone-pitch-tap-crash-fix-private-test.apk",
+    "sha256": "d7d7af21860c6547d7a4f73b2dedc29751682725c27338be42b7eb822735ca74",
+    "sizeBytes": 5175040,
+    "generatedAt": "2026-11-14T08:50:49.963Z",
+    "expiresAt": "2026-11-20T08:50:49.963Z"
   },
-  "signature": "KoyX3RT7fLgI04l+cj8NJ4K2JPDikCzS0U/CHL+RBXxE+OP2XLDLXhm/ByyggtGRlwLGiN4xDbUexl0063jtBw=="
+  "signature": "4YPNN0IjwJsQO9g7GTIOURmznh/CrR+zaASUKGmFIbekyd0fLBIHv+qvDPo046ObjFt/MY6wXbvZrE4aBrbXDA=="
 }
