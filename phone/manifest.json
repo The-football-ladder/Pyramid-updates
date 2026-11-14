@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 398,
-    "versionCode": 398,
-    "versionName": "0.0.2-rc6.4-v398-phone-match-keeper-catch-hold-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v398-phone-match-keeper-catch-hold-private-test.apk",
-    "sha256": "9d335fd1a1df476f9da457f6247e3436f733b898b10294db053baf9b275a897a",
-    "sizeBytes": 5175192,
-    "generatedAt": "2026-11-14T12:14:34.471Z",
-    "expiresAt": "2026-11-20T12:14:34.471Z"
+    "sequence": 399,
+    "versionCode": 399,
+    "versionName": "0.0.2-rc6.4-v399-phone-long-shot-diving-catches-private-test",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v399-phone-long-shot-diving-catches-private-test.apk",
+    "sha256": "4078fe1fd7fa8da309c017f17569ef77b143522e213f4ee8c9abf8373c316186",
+    "sizeBytes": 5175384,
+    "generatedAt": "2026-11-14T13:43:22.385Z",
+    "expiresAt": "2026-11-20T13:43:22.385Z"
   },
-  "signature": "ZXvrDSVM8Oh1/oTmgexDecp9qb/TtPGIiqZ1vSxAtYn/LqVZA5SgbrzUsqqFYr8BtcVCYwFBW9KLAga7/ErEBA=="
+  "signature": "a/Pj8vBBNwbTKi1JTEd5CIwNM0+ailYTinV03J33zjiMMyWyL62bPO6Dl9OEh/6rxl4o/QJvOgT09AUVti4sDQ=="
 }
