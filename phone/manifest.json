@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 402,
-    "versionCode": 402,
-    "versionName": "0.0.2-rc6.4-v402-phone-long-shot-saves-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v402-phone-long-shot-saves-private-test.apk",
-    "sha256": "49c0f48637139b73ae1079b057cc400907395f9e49daf2f3b8876ce553113f52",
-    "sizeBytes": 5175820,
-    "generatedAt": "2026-11-14T21:21:27.384Z",
-    "expiresAt": "2026-11-20T21:21:27.384Z"
+    "sequence": 403,
+    "versionCode": 403,
+    "versionName": "0.0.2-rc6.4-v403-phone-keeper-first-reaction-private-test",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v403-phone-keeper-first-reaction-private-test.apk",
+    "sha256": "f676ba5d3dfb4f6e65adc3dfe79c2b3eb08cd944f955cf05b040ba7028135682",
+    "sizeBytes": 5175844,
+    "generatedAt": "2026-11-15T08:13:45.140Z",
+    "expiresAt": "2026-11-21T08:13:45.140Z"
   },
-  "signature": "d/pHmE3STAVBlrOQn/dxSqDaKscdpja/oYZxi5mm3ElCbpmaUWer2XbGCR5nbbD6F9ttxQivCh1yDk1cMYdaBw=="
+  "signature": "KkfrrEXaf4RN7lEHHqQAXPJlSBRVRcNg41sRLbra4+nNfVt5F8jpnRqVU25ulkr3eVamy9U1NgwaYfAJzT5FDg=="
 }
