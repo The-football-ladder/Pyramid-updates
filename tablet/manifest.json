@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.tablet.preview",
     "channel": "preview",
-    "sequence": 403,
-    "versionCode": 403,
-    "versionName": "0.0.2-rc6.4-v403-tablet-keeper-first-reaction-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/tablet/0.0.2-rc6.4-v403-tablet-keeper-first-reaction-private-test.apk",
-    "sha256": "bfd6074fd4d2bf92feb39eeffa48d3dca9ddc1b4e0d4c4d23455bec43989557c",
-    "sizeBytes": 5175852,
-    "generatedAt": "2026-11-15T12:04:05.950Z",
-    "expiresAt": "2026-11-21T12:04:05.950Z"
+    "sequence": 404,
+    "versionCode": 404,
+    "versionName": "0.0.2-rc6.4-v404-tablet-github-ota-preview",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/tablet/0.0.2-rc6.4-v404-tablet-github-ota-preview.apk",
+    "sha256": "c0887abab5dae2e87d822347eee65e16a4b5ea4efa1d56a2ed6f27fc842716b8",
+    "sizeBytes": 5177380,
+    "generatedAt": "2026-11-15T17:34:52.079Z",
+    "expiresAt": "2026-11-21T17:34:52.079Z"
   },
-  "signature": "hswdZcKF6BbpAbjw2t9+GaZ0G3M/aKbUe+eTSR++DIncj138T6D3OZCGvu6MQV51hNMwjST2E7K70VdSch8eCg=="
+  "signature": "/+z+T3Oq9C/4H7/+7pM8p6pg3HGcbRbwsRgfrFo0UBofdb8lJds1t7JwYmVYHhclE4mwnOEmjt/XHIvtU1gDAw=="
 }

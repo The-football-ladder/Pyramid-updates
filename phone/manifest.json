@@ -3,14 +3,14 @@
     "schema": 1,
     "appId": "com.thefootballladder.pyramid.phone.preview",
     "channel": "preview",
-    "sequence": 403,
-    "versionCode": 403,
-    "versionName": "0.0.2-rc6.4-v403-phone-keeper-first-reaction-private-test",
-    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v403-phone-keeper-first-reaction-private-test.apk",
-    "sha256": "f676ba5d3dfb4f6e65adc3dfe79c2b3eb08cd944f955cf05b040ba7028135682",
-    "sizeBytes": 5175844,
-    "generatedAt": "2026-11-15T08:13:45.140Z",
-    "expiresAt": "2026-11-21T08:13:45.140Z"
+    "sequence": 404,
+    "versionCode": 404,
+    "versionName": "0.0.2-rc6.4-v404-phone-github-ota-preview",
+    "apkUrl": "https://raw.githubusercontent.com/The-football-ladder/pyramid-updates/main/phone/0.0.2-rc6.4-v404-phone-github-ota-preview.apk",
+    "sha256": "151ac13bcb88b029a1ebd0150b0c919c726c3a58fbab9a0a87060210f64c3f6a",
+    "sizeBytes": 5177376,
+    "generatedAt": "2026-11-15T17:35:49.731Z",
+    "expiresAt": "2026-11-21T17:35:49.731Z"
   },
-  "signature": "KkfrrEXaf4RN7lEHHqQAXPJlSBRVRcNg41sRLbra4+nNfVt5F8jpnRqVU25ulkr3eVamy9U1NgwaYfAJzT5FDg=="
+  "signature": "FhMvxFnkE3RsDs7jcAGWRmqokAPyo4/ivFF0Q6WPSZdA2xjhYofVlV0WIZhFdoOdqSLmC4gc31pp4GIE3NGFBA=="
 }
